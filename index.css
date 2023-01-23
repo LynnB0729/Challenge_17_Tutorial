@@ -1,0 +1,42 @@
+html {
+    border: 5px solid black; 
+  }
+  
+  body {
+   border: 5px solid tan;
+  }
+  
+  
+  header {
+    background-color: blue;
+    height: 150px;
+  }
+  
+  h1 {
+    color: white;
+    background-color: gray;
+  }
+  
+  section {
+    background-color: pink;
+    height: 150px; 
+  }
+  
+  h2 {
+    color: teal;
+    background-color: gray; 
+  }
+  
+  button {
+    background-color: purple;
+    height: 40px;
+    width: 80px;
+  }
+  
+  div {
+    background-color: yellow;
+  }
+  
+  footer {
+    background-color: seagreen;
+    border: 5px seagreen solid;
